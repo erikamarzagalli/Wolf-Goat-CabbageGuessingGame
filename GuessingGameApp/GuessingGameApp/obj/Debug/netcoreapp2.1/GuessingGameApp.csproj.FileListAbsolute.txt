@@ -1,0 +1,11 @@
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\bin\Debug\netcoreapp2.1\GuessingGameApp.deps.json
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\bin\Debug\netcoreapp2.1\GuessingGameApp.runtimeconfig.json
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\bin\Debug\netcoreapp2.1\GuessingGameApp.runtimeconfig.dev.json
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\bin\Debug\netcoreapp2.1\GuessingGameApp.dll
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\bin\Debug\netcoreapp2.1\GuessingGameApp.pdb
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.csprojAssemblyReference.cache
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.AssemblyInfoInputs.cache
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.AssemblyInfo.cs
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.dll
+C:\Users\erika.marzagalli\source\repos\GuessingGameApp\GuessingGameApp\obj\Debug\netcoreapp2.1\GuessingGameApp.pdb
